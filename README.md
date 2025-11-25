@@ -1,101 +1,46 @@
 # supply-chain-analysis
-This repository contains my complete Supply Chain Analytics project completed during my Data Analyst Internship at AI Variant.
-It highlights end-to-end data analysis using Excel, SQL, Power BI, and Tableau to uncover inefficiencies, evaluate supplier performance, and build dashboards for monitoring the supply chain process.
+This repository contains my Supply Chain Analytics project completed during my Data Analyst Internship. It includes end-to-end analysis using Excel, SQL, Power BI, and Tableau to evaluate supplier performance, inventory flow, lead times, and overall supply chain efficiency.
 
 Project Structure
-1. Excel – Data Understanding & Preparation
 
-Raw supply chain dataset
+Excel
 
-Data cleaning workflow (handling missing values, standardizing fields, formatting tables)
+Data cleaning, preparation, and EDA
 
-Exploratory Data Analysis (demand trends, lead times, product movement)
+Pivot analysis and summary insights
 
-Pivot tables, charts, and summary insights
+SQL
 
-🔹 2. SQL – Analytical Insights
+Analytical queries using joins, aggregations, and window functions
 
-20+ SQL queries for detailed analysis
+KPIs such as lead time, delays, order accuracy, and inventory turnover
 
-Joins, aggregations, ranking, and window functions
+Power BI
 
-KPIs: inventory turnover, supplier performance, order accuracy, delays
+Interactive dashboard with DAX measures
 
-Module-wise tasks with query outputs
+Data model and relationship design
 
-🔹 3. Power BI – Interactive Dashboard
+Tableau
 
-Power BI dashboard file
+Visual dashboards and custom calculations
 
-Data model design and relationship mapping
+Lead time and fulfillment trend analysis
 
-DAX measures for KPIs and time-based calculations
+ Objective
 
-Visual summaries on demand patterns, delay trends, supplier metrics
+To analyze supply chain operations, identify inefficiencies, and build dashboards that support data-driven decision-making.
 
-🔹 4. Tableau – Visual Analytics
+Key Highlights
 
-Tableau packaged workbook
+Cleaned and structured raw operational data
 
-Final dashboard views
+Performed advanced SQL analytics
 
-Custom calculations and analytical views (lead time, order cycles, fulfillment patterns)
+Built interactive dashboards in Power BI and Tableau
 
- Tools Used
+Delivered actionable supply chain insights
 
+Tools Used
 
-Excel – Cleaning, EDA, Pivot Analysis
-
-
-SQL (MySQL/PostgreSQL) – Insight Generation, KPI Reporting
-
-
-Power BI – Data Modeling, DAX, KPI Dashboards
-
-
-Tableau – Interactive Visualizations, Advanced Calculations
-
-
-
- Project Objective
-To perform comprehensive analysis of supply chain operations by:
-
-
-Understanding the flow of products and supplier dynamics
-
-
-Cleaning and structuring raw supply chain data
-
-
-Extracting insights using SQL
-
-
-Designing dashboards for real-time performance tracking
-
-
-Creating actionable recommendations for process improvement
-
-
-
- Key Highlights
-
-
-Conducted structured data preprocessing and validation
-
-
-Executed advanced SQL analytics across supplier, inventory, and order datasets
-
-
-Developed interactive dashboards in both Power BI and Tableau
-
-
-Identified delays, bottlenecks, and improvement opportunities
-
-
-Demonstrated complete analytics workflow from raw data to insights
-
-
-
- Why This Project Matters
-This Supply Chain Analytics project reflects my ability to work with operational datasets, evaluate performance indicators, and build dashboards that support decision-making. It showcases my capability to apply analytical thinking and multi-tool proficiency to solve practical business challenges.
-
+Excel | SQL | Power BI | Tableau

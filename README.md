@@ -41,6 +41,8 @@ Built interactive dashboards in Power BI and Tableau
 
 Delivered actionable supply chain insights
 
+https://drive.google.com/drive/folders/1McaIXvkju9CAfkdwJNJUV9acHwkoaVly
+
 Tools Used
 
 Excel | SQL | Power BI | Tableau
